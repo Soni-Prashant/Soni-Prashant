@@ -3,6 +3,8 @@
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&s">
 
+- 🔭 I Have Completed **SQLite | Big_Mart**
+
 - 🔭 I Have Completed **PostgreSQL | Music_Store_Analysis**
 
 - 🔭 I Have Completed **MS Power BI | HR_Analytics**
